@@ -12,6 +12,9 @@ Saya adalah seorang pengembang full-stack dan game developer dengan keahlian men
 ![](https://github-profile-trophy.vercel.app/?username=handikaputr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=handikaputr&icon=6&color=4)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blueviolet" alt="Profile Views" />
+</div>
 
+![snake animation](https://github.com/<seu handikaputr>/<seu handikaputr>/blob/output/github-contribution-grid-snake2.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
