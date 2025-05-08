@@ -13,8 +13,8 @@ Saya adalah seorang pengembang full-stack dan game developer dengan keahlian men
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=handikaputr&color=blueviolet" alt="Profile Views" />
 </div>
 
-![snake animation](https://github.com/<seu handikaputr>/<seu handikaputr>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/handikaputr/blob/output/github-contribution-grid-snake2.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
