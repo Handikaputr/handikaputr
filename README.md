@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saya adalah seorang pengembang full-stack dan game developer dengan keahlian mendalam di Laravel, Tailwind CSS, dan Unity. Dengan pendekatan yang kreatif dan teknis, saya menciptakan solusi web yang elegan dan game yang imersif.
+Saya adalah seorang pengembang full-stack dan game developer dengan keahlian mendalam di Laravel, vue dan Unity. Dengan pendekatan yang kreatif dan teknis, saya menciptakan solusi web yang elegan dan game yang imersif.
 
 
 ## 🌐 Socials:
