@@ -16,5 +16,5 @@ Saya adalah seorang pengembang full-stack dan game developer dengan keahlian men
   <img src="https://komarev.com/ghpvc/?username=handikaputr&color=blueviolet" alt="Profile Views" />
 </div>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/handikaputr/langs)](https://githubtrends.io)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
